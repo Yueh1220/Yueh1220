@@ -2,7 +2,22 @@
 This repositary holds my programming projects during the period of stanCode SC001 course.
 
 ##Project Source Codes
-*
+
+*[BeeperRow](https://github.com/Yueh1220/Yueh1220/blob/main/Yueh1220/BeeperRow.py)
+
+*[BeeperRowAdv](https://github.com/Yueh1220/Yueh1220/blob/main/Yueh1220/BeeperRowAdv.py)
+
+*[DoubleBeepers](https://github.com/Yueh1220/Yueh1220/blob/main/Yueh1220/DoubleBeepers.py)
+
+*[InfinitelLoop](https://github.com/Yueh1220/Yueh1220/blob/main/Yueh1220/InfiniteLoop.py)
+
+*[MoveToTheEnd](https://github.com/Yueh1220/Yueh1220/blob/main/Yueh1220/MoveToTheEnd.py)
+
+*[PotholeFilling](https://github.com/Yueh1220/Yueh1220/blob/main/Yueh1220/PotholeFilling.py)
+
+*[SteepleChase](https://github.com/Yueh1220/Yueh1220/blob/main/Yueh1220/Steeplechase.py)
+
+*[StepUp](https://github.com/Yueh1220/Yueh1220/blob/main/Yueh1220/StepUp.py)
 <!--
 **Yueh1220/Yueh1220** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
