@@ -1,5 +1,8 @@
 ### Hi there 👋
+This repositary holds my programming projects during the period of stanCode SC001 course.
 
+##Project Source Codes
+*
 <!--
 **Yueh1220/Yueh1220** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
